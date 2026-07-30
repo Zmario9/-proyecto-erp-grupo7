@@ -12,8 +12,12 @@
 
       <v-col class="mb-4">
         <h1 class="display-2 font-weight-bold mb-3">
-          Welcome to Vuetify
+          Proyecto ERP Grupo #7
         </h1>
+        <p>Realizado por: </p>
+        <p>Jose Correa</p>
+        <p>Jonathan Campos</p>
+        <p>Jesús Dorante</p>
 
         <p class="subheading font-weight-regular">
           For help and collaboration with other Vuetify developers,
