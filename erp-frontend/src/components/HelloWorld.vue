@@ -15,12 +15,12 @@
           Proyecto ERP Grupo #7
         </h1>
         <p>Realizado por: </p>
-        
+
         <p>Jose Correa</p>
         <p>Jonathan Campos</p>
         <p>Jesús Dorante</p>
         <p>Santiago Jimenez</p>
-        <p>Kevin Camacaro</p>
+        <p>Kevyn Camacaro</p>
         <p>Nestor Mujica</p>
 
         <p class="subheading font-weight-regular">
