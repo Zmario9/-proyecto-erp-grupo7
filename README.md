@@ -1,0 +1,2 @@
+- Backend: Kevyn Camacaro
+- Frontend: Jonathan
