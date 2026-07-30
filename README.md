@@ -1,3 +1,2 @@
-- Backend: Kevyn Camacaro /c/Users/usuario
 - Backend: Kevyn Camacaro
-- Backend: Kevyn Camacaro
+- Frontend: Jonathan
