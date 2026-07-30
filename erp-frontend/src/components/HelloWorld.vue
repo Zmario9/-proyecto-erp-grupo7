@@ -18,7 +18,7 @@
         <p>Equipo #7</p>
         <p>Jose correa </p>
         <p>Jonathan Campos</p>
-
+        <p>Kevyn Camacaro</p>
         <p class="subheading font-weight-regular">
           For help and collaboration with other Vuetify developers,
           <br>please join our online
