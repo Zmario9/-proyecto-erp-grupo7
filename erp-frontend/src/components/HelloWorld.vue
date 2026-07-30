@@ -17,6 +17,7 @@
         <p>Realizado por:</p>
         <p>Equipo #7</p>
         <p>Jose correa </p>
+        <p>Jonathan Campos</p>
 
         <p class="subheading font-weight-regular">
           For help and collaboration with other Vuetify developers,
