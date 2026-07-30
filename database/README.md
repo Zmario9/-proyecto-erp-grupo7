@@ -1,1 +1,1 @@
-Base de datos del proyecto
+Base de datos del proyecto: hecho por Jesús Dorante
